@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/practicert4/static/css/main.fa515987.css",
+    "main.js": "/practicert4/static/js/main.24519550.js",
+    "static/js/787.6f6f0a96.chunk.js": "/practicert4/static/js/787.6f6f0a96.chunk.js",
+    "static/media/scallops.jpeg": "/practicert4/static/media/scallops.bdd5338559ce6236f295.jpeg",
+    "static/media/salmon.jpeg": "/practicert4/static/media/salmon.9cc90dacfbbbd5946307.jpeg",
+    "static/media/multiseafood.jpg": "/practicert4/static/media/multiseafood.5a38442d018c3fff9dd0.jpg",
+    "static/media/fishb2.jpeg": "/practicert4/static/media/fishb2.5101b3f51319df91eed5.jpeg",
+    "static/media/butterfish.jpeg": "/practicert4/static/media/butterfish.beefec27f3d2eb83c33f.jpeg",
+    "static/media/about.jpeg": "/practicert4/static/media/about.95eb96c059b5754f6faa.jpeg",
+    "static/media/sflogo.png": "/practicert4/static/media/sflogo.f10fcc7b0e52e26ea3b8.png",
+    "static/media/oysters.jpeg": "/practicert4/static/media/oysters.aeb3082fbc11d2a65247.jpeg",
+    "static/media/cuttlefish.jpeg": "/practicert4/static/media/cuttlefish.448a8284124459221b91.jpeg",
+    "static/media/clovefish.jpeg": "/practicert4/static/media/clovefish.0238b245df9eed586d7a.jpeg",
+    "index.html": "/practicert4/index.html",
+    "main.fa515987.css.map": "/practicert4/static/css/main.fa515987.css.map",
+    "main.24519550.js.map": "/practicert4/static/js/main.24519550.js.map",
+    "787.6f6f0a96.chunk.js.map": "/practicert4/static/js/787.6f6f0a96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa515987.css",
+    "static/js/main.24519550.js"
+  ]
+}
